@@ -1,0 +1,257 @@
+{
+
+  "head1": 
+  {
+      "duft": "Parfums",
+      "uber": "À propos de nous",
+      "Language Dropdown": "Language Menu"
+  },
+  "dropdownMenu": 
+  {
+      "sweet_scents": "parfums sucrés",
+      "oud_perfume": "parfum Oud",
+      "branded_perfumes": "parfums de marque"
+  },
+  "dropdownMenu2": 
+  {
+      "luxury_perfumes": "parfums de luxe",
+      "conventions": "Conventions"
+  },
+  "section1": 
+  {
+      "title": "Liste des conventions de l'OMI",
+      "terms_of_use": "Conditions d'utilisation",
+      "terms_text": "Bienvenue sur <strong><i>DUFTSAMPLES</i></strong>, votre destination pour découvrir des parfums uniques et raffinés. En accédant à notre site web, vous acceptez les conditions suivantes. Veuillez les lire attentivement.",
+      "acceptance_of_terms": "Acceptation des conditions",
+      "acceptance_text": "En utilisant <strong><i>DUFTSAMPLES</i></strong>, vous acceptez de respecter ces conditions d'utilisation. Nous nous réservons le droit de modifier ces conditions à tout moment. Il est de votre responsabilité de consulter régulièrement cette page pour être informé des éventuelles modifications.",
+      "acceptable_use": "Utilisation acceptable",
+      "acceptable_use_list": [
+        "Respect et comportement : Nous vous demandons de traiter les autres utilisateurs avec respect et d'éviter tout comportement nuisible ou abusif.",
+        "Contenu autorisé : Vous acceptez de ne pas publier de contenu illégal, trompeur ou diffamatoire. Les commentaires et les avis doivent être constructifs et pertinents."
+      ],
+      "intellectual_property": "Propriété intellectuelle",
+      "intellectual_property_list": [
+        "Droits d'auteur : Tout le contenu sur <strong><i>DUFTSAMPLES</i></strong>, y compris les images, les descriptions de produits et les textes, est protégé par des droits d'auteur. L'utilisation ou la reproduction non autorisée de ce contenu est interdite.",
+        "Marques : Les marques et les logos utilisés sur le site sont la propriété de leurs propriétaires respectifs. Leur utilisation non autorisée est interdite."
+      ],
+      "privacy_and_data_protection": "Confidentialité et protection des données",
+      "privacy_list": [
+        "Collecte d'informations : Nous collectons des informations personnelles pour traiter vos commandes et améliorer votre expérience sur notre site. Nous nous engageons à protéger ces données conformément à notre politique de protection des données.",
+        "Utilisation des données : Vos informations ne seront utilisées que pour les fins décrites dans notre politique de confidentialité et ne seront pas partagées sans votre consentement."
+      ],
+      "contact": "Contact",
+      "contact_text": "Pour toute question ou préoccupation concernant ces conditions, veuillez nous contacter à :",
+      "contact_list": [
+        "Email : DUFTSAMPLES258@gmail.com",
+        "Téléphone : +212 535000035",
+        "Adresse : Fez str mohamed V N°258"
+      ],
+      "last_updated": "Dernière mise à jour",
+      "last_updated_date": "Cette page a été mise à jour pour la dernière fois le <strong><i>25/05/2024</i></strong>.",
+      "lydies": "FEMMES",
+      "men": "HOMMES",
+      "links.women": "femmes",
+      "links.men": "hommes",
+      "imgpr1": {
+        "alt": "Image principale pour les hommes"
+      },
+      "paragraph": "Les parfums pour hommes de Sugar encapsulent un parfait équilibre entre audace et charme, conçus pour l'homme contemporain. Chaque fragrance est un mélange magistral d'agrumes vivifiants et de notes chaudes et riches, créant un parfum à la fois rafraîchissant et robuste. Que ce soit pour une journée au bureau ou une soirée, les parfums pour hommes de Sugar offrent un arôme confiant et inoubliable. Embrassez sophistication et charisme avec Sugar, le parfum parfait pour toute occasion.",
+      "imgsi": {
+        "alt": "Parfum Si"
+      },
+      "para1": "Les parfums pour femmes de Sugar offrent un mélange délicieux de douceur et de sophistication, capturant l'essence de la féminité dans chaque flacon. Parfaitement conçu pour la femme moderne, chaque fragrance combine des notes de tête de fleurs fraîches avec une touche de douceur, créant un parfum à la fois ludique et élégant. Que vous sortiez pour une journée décontractée ou une soirée glamour, les parfums pour femmes de Sugar vous garantissent de laisser une impression durable où que vous alliez. Embrassez le charme et l'attrait avec Sugar, votre parfum signature pour chaque occasion.",
+      "text": "Les parfums d'oud sont réputés pour leur arôme profond,<br> riche et complexe, souvent décrit comme <br>boisé, fumé et légèrement sucré. <br><br>Issu du bois résineux de l'arbre Aquilaria, l'oud est l'un des ingrédients les plus <br>chers et recherchés dans le monde des parfums. <br><br>Il a une longue histoire dans la parfumerie du Moyen-Orient et est apprécié pour sa longévité et <br>son profil de parfum unique. <br><br>Les parfums d'oud évoquent un sentiment de luxe et <br>sophistication, les rendant favoris parmi <br>les connaisseurs et ceux recherchant une fragrance distinctive et <br>opulente. <br>",
+      "img": {
+        "alt": "Parfum Oud"
+      },
+      "img2_alt": "Marque Kilian",
+      "img6_alt": "Marque Parfum Paris",
+      "img7_alt": "Marque Nichan",
+      "img4_alt": "Marque Creed",
+      "img5_alt": "Marque Xerjjof",
+      "img3_alt": "Marque Louis Vuitton",
+      "image_alt": "parfum Myriad",
+      "brand": "Louis Vuitton",
+      "product": "MYRIAD",
+      "description": "Un nouveau parfum de Louis Vuitton pour femmes et hommes, sorti en 2023. Le parfum est floral-boisé. La projection et la longévité sont supérieures à la moyenne. Il est commercialisé par LVMH."
+
+
+  },
+  "footer": 
+  {
+      "help": "AIDE",
+      "faq": "FAQ",
+      "refund_policy": "politique de remboursement",
+      "company": "ENTREPRISE",
+      "contact_footer": "Contact",
+      "about_us": "À propos de nous",
+      "legal": "LÉGAL",
+      "imprint": "impressum",
+      "data_protection": "Protection des données",
+      "our_goal": "NOTRE OBJECTIF",
+      "goal_text": [
+        "Chez scent samples",
+        "nous comprenons que le",
+        "Choisir le parfum parfait",
+        "une expérience personnelle",
+        "unique et profonde",
+        "est."
+      ]
+  },
+  "section2": 
+  {
+        "exclusive": "Votre exclusivité",
+        "provider": "Fournisseur de",
+        "luxury": "Luxe-",
+        "perfume": "Problèmes de parfum !",
+        "personal": "Chez Fragrance Samples, nous comprenons que choisir le bon",
+        "experience": "le parfum est une expérience profondément personnelle et unique.",
+        "shopping": "Achetez maintenant",
+        "img_back": {
+          "alt": "Image pour l'arrière"
+        },
+        "img1_m": {
+          "alt": "Burberry"
+        },
+        "img2_m": {
+          "alt": "Français"
+        },
+        "img3_m": {
+          "alt": "Idéal"
+        },
+        "imgfsl": {
+          "alt": "Parfum YSL"
+        },
+        "imgtrs": {
+          "alt": "Parfum Trésor"
+        },
+        "p1": "Parfum YSL",
+        "p2": "120,75 € - 280,50 €",
+        "p3": "Parfum Trésor",
+        "p4": "150,00 € - 250,00 €",
+        "title": "<i>MIX Parfums</i>",
+        "img1": {
+          "alt": "Parfum Dubai"
+        },
+        "img2": {
+          "alt": "Parfum Paradyse"   
+        },
+        "img3": {
+          "alt": "Parfum Mix Oud"
+        },
+        "description": "\"Découvrez la profondeur luxueuse de l'oud parfaitement équilibrée avec des agrumes vibrants, des floraux élégants et des notes de base chaudes et sensuelles dans un mélange de fragrance unique.\"",
+        "title_p": "PRADA",
+        "img_p_alt": "Image Prada",
+        "description_p1": "Les parfums Prada dévoilent le secret de la sophistication et du charme à travers des fragrances méticuleusement élaborées qui incarnent une élégance intemporelle",
+        "image_alt": "parfum Imperial Majesty",
+        "diamond": "diamant blanc de 5 carats",
+        "gold": "or massif 18 carats",
+        "crystal": "Fabriqué en cristal",
+        "product": "Clive Christian N°1 Imperial Majesty"  
+
+  },
+  "section3": 
+  {
+        "maison": "MAISON FRANCIS KURKDJIAN",
+        "discover": "Découvrez le monde de Maison Francis Kurkdjian avec nos échantillons fins",
+        "samples": "de parfum. Découvrez les senteurs uniques et l'exclusivité",
+        "luxury": "notre marque en échantillons compacts. Profitez du luxe et de l'Art",
+        "art": "de la création de parfum avant de choisir votre préféré.",
+        "top_bottles": "Nos 4 mini flacons",
+        "to_mfk": "À MFK",
+        "img_gentelman": {
+          "alt": "Image du parfum Gentleman"
+        },
+        "img_nuit": {
+          "alt": "Image du parfum La Nuit de L'Homme"
+        },
+        "para1": "<b>GENTLEMAN RÉSERVE PRIVÉE</b> <br> Eau de Parfum <br> Boisé, Floral, Ambré <br> 195,00 € <br>",
+        "para2": "<b>YVES SAINT LAURENT</b> <br> La Nuit De L'Homme Eau de Parfum <br> 97,00 € <br>",
+        "imgsc": {
+          "alt": "Parfum Scandal"
+        },
+        "p1": "Parfum Scandal",
+        "p2": "95,25 € - 127,00 €",
+        "title": "<i>“Hourmat” Parfums</i>",
+        "img1": {
+            "alt": "Parfum Ispahan"
+        },
+        "img2": {
+            "alt": "Parfum Khozam"
+        },
+        "img3": {
+            "alt": "Parfum Essentiel Oud"
+        },
+        "description": "\"Indulgez dans l'élégance envoûtante de l'oud, conçu exclusivement pour la femme sophistiquée.\"",
+        "title_lv": "Louis Vuitton",
+        "img_luis_alt": "Marque Louis Vuitton",
+        "description_lv1": "Les parfums Louis Vuitton incarnent l'élégance intemporelle et le luxe à travers des senteurs méticuleusement élaborées capturant l'essence de la sophistication",
+        "image_alt": "parfum La Vie est Belle",
+        "title_vb": "La Vie est Belle",
+        "description_vb": "<i><strong>LA VIE EST BELLE - EAU DE PARFUM </strong> <br> <br><strong>Famille olfactive :</strong> Floral <br><strong>Notes de tête :</strong> Iris Pallida, Accord Gourmand <br><strong>Notes de cœur :</strong> Absolu de Fleur d'oranger & de Jasmin Sambac <br><strong>Notes de fond :</strong> Vanille, Essence de cœur de Patchouli</i>"
+   
+  },
+  "testeur": 
+  {
+        "louis_vuitton": "LOUIS VUITTON",
+        "discover_louis": "Découvrez Louis Vuitton en petits échantillons. Testez ce",
+        "luxury_louis": "Luxe avant de décider sur l'original.",
+        "to_louis_vuitton": "À LOUIS VUITTON",
+        "creed": "CREED",
+        "discover_creed": "Découvrez Creed en petits échantillons. Essayez le luxe avant",
+        "to_creed": "À CREED"
+  },
+  "FAQ": 
+  {
+        "are_scents_original": "Les parfums sont-ils originaux ?",
+        "packaging": "Comment les échantillons de parfum sont-ils emballés ?",
+        "atomizer": "Les échantillons de parfum ont-ils un vaporisateur ?",
+        "spray_times": "Combien de fois puis-je pulvériser un échantillon de parfum ?"
+  },
+  "section4": 
+  {
+        "imgfssl": {
+          "alt": "Image FSL"
+        },
+        "title_ch": "“CHOYOUKH” Parfums",
+        "img1": {
+            "alt": "Parfum Black Diamond"
+        },
+        "description": "\"Black Diamond\" par Ibrahim Al-Kouraychi est un parfum luxueux qui exsude élégance et sophistication. Connu pour son parfum profond et captivant, il présente de l'oud riche comme note principale, mélangé harmonieusement avec d'autres ingrédients précieux. Ce parfum offre un arôme audacieux et distinctif qui laisse une impression durable, en faisant un choix préféré pour ceux recherchant une expérience de parfum unique et opulente.",
+        "img2": {
+            "alt": "Parfum Oud Wander"
+        },
+        "description2": "\"Oud Wander\" est un parfum sophistiqué qui vous emmène dans un voyage olfactif à travers le mystère de l'oud. Ce parfum capture l'essence de l'aventure et de l'exploration, mélangeant les notes boisées riches de l'oud avec des épices exotiques et des floraux. Idéal pour ceux qui apprécient la profondeur et la complexité de l'oud traditionnel, \"Oud Wander\" offre une expérience de parfum raffinée et évocatrice, pour le quotidien et les occasions spéciales.",
+        "title": "Baccarat",
+        "description_b1": "Les parfums Baccarat incarnent le luxe et le raffinement, mettant en valeur un artisanat exquis et une élégance intemporelle dans chaque senteur",
+        "img_cer_alt": "Les cercles du design",
+        "img_bac_alt": "Image de marque Baccarat",
+        "image_alt": "parfum Lacoste",
+        "title_lc": "LACOSTE",
+        "p1": "rose glacé et vert d'eau",
+        "p2": "65€ ---> 87€",
+        "p3": "L.12.12",
+        "p4": "sublimée par le bois de cèdre"
+
+  },
+  "section5": 
+  {
+    "img": {
+      "alt": "Image Oud"
+    },
+    "description_oud1": "L'oud des Émirats est réputé pour son parfum riche et luxueux, caractérisé par des notes profondes, boisées, fumées et légèrement sucrées. Obtenue et produite avec soin méticuleux, cette résine précieuse est un incontournable de l'encens traditionnel et de la parfumerie. Appréciée pour sa qualité exceptionnelle et son arôme durable, l'oud des Émirats symbolise le prestige et le patrimoine culturel, en faisant un ingrédient très recherché dans le monde des parfums.",
+    "title": "Jean Paul Gaultier",
+    "img_s5_alt": "Parfum de marque Jean Paul Gaultier",
+    "description_jpg": "Les fragrances Jean Paul Gaultier dégagent une créativité audacieuse et un charme sensuel, célébrant l'individualité avec chaque senteur distinctive"
+
+  },
+  "section6": 
+  {
+      "title": "DIOR",
+      "img_dior_alt": "Parfum Dior",
+      "description1": "Élégance et sophistication",
+      "description2": "Mariant charme intemporel et art olfactif innovant"
+  }
+  
+}
+    

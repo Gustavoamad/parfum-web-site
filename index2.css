@@ -1,0 +1,513 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+}
+
+.head_list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    
+}
+
+.icon_head{
+    width: 100%;
+    height: 100%;
+    top: 15px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 3px;
+}
+
+.l_head{
+    width: 730px;
+    height: 80px;
+    left: 460.1px;
+    gap: 0px;
+    opacity: 0px;
+}
+.user_icon{
+width: 36px;
+height: 32px;
+top: 22.25px;
+}
+
+.chariot_icon{
+    width: 36px;
+    height: 32px;
+    top: 51.5px;
+    left: 1103.41px;
+    padding: 0.25px 0.01px 0.25px 0px;
+}
+
+.head1{
+    width: 100%;
+    padding: 10px;
+    height: 65px;
+    left: 150px;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 20px;
+}
+
+.icon_top_right{
+    margin-top: 23px;
+    margin-left: 184px;
+}
+
+.img_princ{
+    position: relative;
+    width:100%;
+    height: 100%;
+}
+
+.section2{
+display: flex;
+background-color: gainsboro;
+}
+
+.div_text_absolute{
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 11rem;
+}
+
+.div_text_absolute h1{
+    color: #FFFFFF;
+   font-size: 62px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+} 
+
+.div_text_absolute p{
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: left;
+} 
+
+p{
+    font-size: 19px;
+}
+.butt_sect2{
+    color: rgb(0, 0, 0);
+    border: 2px outset  rgb(172, 156, 106) ;
+    background-color: rgb(255, 255, 255);
+    border-radius:8px;
+    font-size: 18px;
+    margin-top: 12px;
+    padding:10px;
+}
+.butt_sect2:hover{
+    color: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 11px;
+    border: 2px border  rgb(209, 203, 151) ;
+    background-color: rgb(209, 203, 151);
+    display: flex; 
+}
+
+.img2{
+    width: 150px;
+    height: 150px;
+}
+.img3{
+    width: 150px;
+    height:84.5px;
+    padding-top: 2rem;
+}
+.img4{
+    width: 150px;
+    height: 48px;
+    padding-top: 3rem;
+}
+.img5{
+    width: 150px;
+    height: 48px;
+    padding-top: 3rem;
+}
+.img6{
+    width: 150px;
+    height: 48px;
+    padding-top: 3rem;
+}
+.img7{
+    width: 150px;
+    height: 48px;
+    padding-top: 3rem;
+}
+.div_brand{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 8px;
+    background-color: gainsboro;
+    padding-bottom: 28px;
+}
+h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-top:0px;
+    padding-bottom: 19px;
+}
+
+.creed_img{
+    width: 16rem;
+    height: 15rem;
+}
+
+.parfum{
+    display: flex;
+    justify-content: center;
+gap: 1%;}
+.creed{
+    background-color: white;
+    border-radius: 2%;
+    width: 260px;
+}
+.xer_alex{
+    background-color: white;
+    border-radius: 2%;
+    width: 260px;
+}
+.xer_naxos{
+    background-color: white;
+    border-radius: 2%;
+    width: 260px;
+}
+.ser_accento{
+    background-color: white;
+    border-radius: 2%;
+    width: 260px;
+}
+.div_parfum{
+    background-color: gainsboro;
+    padding-bottom: 4rem;
+    margin-top: 0px;
+}
+
+p{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.2px;
+text-align: center;
+
+}
+
+.img_kurk{
+    width: 114%;
+    margin-top: 0px;
+}
+
+.div_img_kurk{
+    position: relative;
+}
+.div_text2{
+    position: absolute;
+    z-index: 99;
+    color: #FFFFFF;
+    margin-top: 190px;
+    margin-left: 138px;
+    
+}
+.para{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+.section3{
+    display: flex;
+    background-color: gainsboro;
+}
+h3{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 32px;
+font-weight: 600;
+line-height: 38.4px;
+text-align: left;
+margin-bottom: 22px;
+}
+.butt3{
+    color: rgb(0, 0, 0);
+    border: 2px outset ;
+    background-color: rgb(255, 255, 255);
+    border-radius:8px;
+    font-size: 22px;
+    padding: 6px;
+    margin-top: 13px;
+    text-transform: uppercase;
+}
+
+.butt3:hover{
+    color: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 11px;
+    border: 2px border  rgb(255 143 0) ;
+    background-color: rgb(255 143 0);
+    display: flex; 
+}
+
+.luis_vuitton{
+    width: 546px;
+    height: 519.46px;
+    margin-right: 4.5rem;
+    border-radius: 1%;
+}
+
+.img_creed_testeur{
+width: 546px;
+height: 519.46px;
+margin-right: 70px;
+border-radius: 1%;
+}
+
+.testeur1{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15rem;
+    margin-top: 4.5rem;
+}
+.luis_vit_text{
+    background-color: white;
+    width: 377px;
+    height: 200.34px;
+    top: 369.46px;
+    left: 40px;
+    padding: 29.52px 71.67px 34.8px 30px;
+    margin-right: 129px;
+    margin-left: 8rem;
+    box-shadow: 0px 2px 28px 0px #0000001A;
+    height: 190px;
+    padding-bottom: 22px;
+    border-radius: 2%;
+}
+.creed_text{
+    background-color: white;
+    width: 418px;
+    height: 200.34px;
+    top: 369.46px;
+    left: 634px;
+    padding: 29.52px 30.99px 34.8px 30px;
+    margin-left: 12px;
+    padding-bottom: 22px;
+    height: 190px;
+    border-radius: 2%;
+}
+
+.testeur_text{
+    position: absolute;
+    z-index: 99;
+    display: flex;
+    margin-top: 28rem;
+    margin-left: 9rem;
+}
+.testeur{
+    display: flex;
+    padding-bottom: 140px;
+    background-color: gainsboro;
+}
+
+.lui_txt{
+    font-size: 25px;
+    margin-bottom: 5.25;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    text-align: left;
+    margin-top: 16px;
+}
+.para_luis{
+    margin-top: 0px;
+    margin-bottom: 9px;
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.butt4{
+    margin-top: 1rem;
+    border: black;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    padding-top: 21px;
+    padding-right: 39px;
+    padding-bottom: 21px;
+    padding-left: 39px;
+}
+
+
+.FAQ{
+width: 1140px;
+height: 455.87px;
+background-color: gainsboro;
+margin-left: 10rem;
+}
+.FAQ div{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 6rem;
+    width: 1104px;
+}
+.faq_txt{
+font-family: Montserrat;
+font-size: 38.4px;
+font-weight: 600;
+line-height: 46.08px;
+text-align: center;
+margin-left: 13rem;
+}
+hr{
+    width: 69rem;
+    margin-left: 6rem;
+}
+
+.arrow{
+    width: 21px;
+    height: 11px;
+}
+.butt_faq{
+width: 1140px;
+height: 56px;
+top: 1px;
+text-align: left;
+margin-left: 60px;
+padding-left: 68px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-right-width: 0px;
+border-left-width: 0px;
+border-bottom-width: 1px;
+border-top-width: 1px;
+background-color: white;
+font-size: larger;
+font-family: revert;
+border-bottom-width: 0px;
+border-color: #dcdcdc;
+}
+.butt_faq2{
+    width: 1140px;
+    height: 56px;
+    top: 1px;
+    text-align: left;
+    margin-left: 60px;
+    padding-left: 68px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    background-color: white;
+    font-size: larger;
+    font-family: revert;
+    border-bottom-width: 0px;
+    border-color: #dcdcdc;
+    border-bottom-width: 1px;
+    }
+
+.footer{
+    background-color: #D6CDAE;
+    width: 100%;
+    height: 458.55px;
+}
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 65px;
+}
+.img_foot{
+    width: 109px;
+    height: 149.12px;
+    margin-top: 22px;
+}
+h4{
+    color: #ffffff;
+    text-align: left;
+    font-family: sans-serif;
+}
+.para_foot{
+    color: #ededed;
+    text-align: left;
+    font-family: Montserrat;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.footer2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 65px;
+}
+span{
+color: #ffffff;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+width: 350px;
+height: 28px;
+top: 320.15px;
+}
+.img_pym{
+width: 384px;
+height: 28.8px;
+top: 303.75px;
+left: 756px;
+}
+/* Style pour la navbar */
+.head_list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: gainsboro;
+    overflow: hidden;
+}
+
+.head_list li {
+    float: left;
+    display: inline;
+    padding: 14px 16px;
+    color: white;
+    cursor: pointer;
+}
+
+.head_list li:hover {
+    background-color: #8f8669;
+}
+
+/* Style pour le menu déroulant */
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #8f8669;
+    box-shadow: 0px 8px 16px 0px rgba(250, 249, 249, 0.2);
+    z-index: 1;
+}
+
+.dropdown-menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.dropdown-menu li {
+    padding: 12px 16px;
+    color: white;
+}
+
+.dropdown-menu li a {
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown-menu li:hover {
+    background-color: #575757;
+}
